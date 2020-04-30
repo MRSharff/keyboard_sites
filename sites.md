@@ -7,5 +7,5 @@
 [Kono](kono.store)  
 [zFrontier](en.zfrontier.com)  
 [Keebio](keeb.io)  
-[PimpMyKeyboard](https://pimpmykeyboard.com/)
+[PimpMyKeyboard](https://pimpmykeyboard.com/)  
 [MechanicalKeyboards](https://mechanicalkeyboards.com/)
